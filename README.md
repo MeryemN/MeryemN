@@ -2,7 +2,7 @@
   
   ## Hi there 👋, I'm Meryem 
   
-  ![](https://komarev.com/ghpvc/?username=lightgrey)
+  ![](https://komarev.com/ghpvc/?username=MeryemN)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryemN&langs_count=8&theme=react)
 
