@@ -11,6 +11,7 @@
 I am a technology enthusiast with a particular interest in artificial intelligence (AI) and its applications. I enjoy exploring and learning about new technologies and programming languages.
 
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
+<details open>
   <summary> 
     Languages
   </summary>
@@ -32,7 +33,6 @@ I am a technology enthusiast with a particular interest in artificial intelligen
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </details>
 
 <details open>
@@ -60,7 +60,6 @@ I am a technology enthusiast with a particular interest in artificial intelligen
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </details>
 </p>
