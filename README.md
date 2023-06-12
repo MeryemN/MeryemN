@@ -10,11 +10,8 @@
 
 I am a technology enthusiast with a particular interest in artificial intelligence (AI) and its applications. I enjoy exploring and learning about new technologies and programming languages.
 
-
-
-
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
