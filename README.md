@@ -8,7 +8,9 @@
   </p>
   
 
-Hello there! I am a technology enthusiast with a passion for computer science and development. I enjoy exploring and learning about new technologies and programming languages.
+I am a technology enthusiast with a particular interest in artificial intelligence (AI) and its applications. I enjoy exploring and learning about new technologies and programming languages.
+
+
 
 
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
@@ -16,7 +18,10 @@ Hello there! I am a technology enthusiast with a passion for computer science an
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+ <img src="https://raw.githubusercontent.coI am a technology enthusiast with a particular interest in artificial intelligence (AI) and its applications. I enjoy exploring and learning about new technologies and programming languages.
+
+
+m/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript " width="45" height="45"/>   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>   
